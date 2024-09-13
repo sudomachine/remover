@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Visdual Studio Build
+.vs
+out
+CMakeSettings.json
+*.txt.user

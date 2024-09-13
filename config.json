@@ -1,0 +1,18 @@
+{
+    "paths": [
+        {
+            "path": "C:\\users\\s-u-d\\test\\test1.txt",
+            "interval": 1
+        },
+        {
+            "path": "C:\\users\\s-u-d\\test\\test2.txt",
+            "interval": 2
+        },
+        {
+            "path": "C:\\users\\s-u-d\\test\\test3.tx2",
+            "interval": 3
+        }
+    ],
+    "remove_interval": 20,
+    "scan_interval": 30
+}
